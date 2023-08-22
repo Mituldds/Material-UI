@@ -6,7 +6,7 @@ function Notes() {
     <>
       <div>Notes page</div>
       <Input placeholder="Write" />
-      <Button>Click Me</Button>;
+      <Button>Click Me</Button>
     </>
   );
 }
